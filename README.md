@@ -75,6 +75,10 @@
   </a>
 </p>
 
+
+## Currently building
+- 📐 [system-design-bible](https://github.com/ElMoorish/system-design-bible) — System design for the AI era
+- 🧠 [ai-engineer-vault](https://github.com/ElMoorish/ai-engineer-vault) — Field manual for LLM production engineering
 ---
 
 ## 💡 About Me
