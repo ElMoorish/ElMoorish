@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ayman Ait Sidi Allal
 
-<img align="right" alt="Developer" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ6MzV6YmI2eHJ6MzV6YmI2eHJ6MzV6YmI2eHJ6MzV6YmI2eHJ6MzV6YmI2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGpP4wNB698k7LY/giphy.gif" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElMoorish&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 
 ## 💻 Full-Stack Developer & 🔐 Cybersecurity Enthusiast
 
