@@ -1,100 +1,49 @@
-# 👋 Hi, I'm Ayman Ait Sidi Allal
+﻿# Hi there, I'm ElMoorish 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElMoorish&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-
-## 💻 Full-Stack Developer & 🔐 Cybersecurity Enthusiast
-
-### 📍 Casablanca, Morocco
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
-
-### Backend & Tools
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+```yaml
+title: Full Stack Developer & Cybersecurity Enthusiast
+focus: Applied AI/ML & Quantitative Systems
+status: Building intelligent, secure, and high-frequency automated systems
+```
 
 ---
 
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElMoorish&theme=radical&bg_color=0d0d1a&title_color=00d4ff&text_color=e0e0e0&border_color=1e3a5f&area_color=1e3a5f" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### [Thefetcher](https://github.com/ElMoorish/thefetcher)
-> A powerful Vue.js data fetching tool with caching, error handling, and real-time updates.
-
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript" />
-</p>
+### 🚀 About Me
+- 💻 **Full Stack Development:** Designing scalable web applications, robust backend microservices, and modern UI/UX.
+- 🛡️ **Cybersecurity Enthusiast:** Hardening architectures with SOC 2 compliance, OWASP security standards, and strict perimeter controls.
+- 🧠 **AI/ML & Deep Learning:** Engineering Time-Series Transformers (PatchTST), PyTorch Lightning pipelines, and Reinforcement Learning agents.
+- 📈 **Quantitative Systems:** Building institutional execution engines on MetaTrader 5 (MT5) with dynamic ATR risk management.
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Tech Stack & Tooling
 
-<p>
-  <a href="https://www.linkedin.com/in/ayman-ait-sidi-allal-b942a8337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ElMoorish">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ayman@moorish.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://moorish.dev">
-    <img src="https://img.shields.io/badge/Portfolio-moorish.dev-00d4ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Languages** | `Python`, `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `SQL`, `PowerShell` |
+| **AI / Deep Learning** | `PyTorch Lightning`, `PyTorch`, `Transformers`, `scikit-learn`, `scikit-survival`, `SHAP` |
+| **Quant & Trading** | `MetaTrader 5 API`, `Gymnasium`, `Stable-Baselines3`, `PufferLib` |
+| **Backend & Web** | `FastAPI`, `Uvicorn`, `Node.js`, `REST APIs`, `SSE Streaming` |
+| **Security & DevOps** | `SOC 2 Hardening`, `OWASP Security Headers`, `Git`, `Docker`, `Linux` |
 
-
-## Currently building
-- 📐 [system-design-bible](https://github.com/ElMoorish/system-design-bible) — System design for the AI era
-- 🧠 [ai-engineer-vault](https://github.com/ElMoorish/ai-engineer-vault) — Field manual for LLM production engineering
 ---
 
-## 💡 About Me
+### 🏆 Featured Project
 
-- 🔭 Currently working on **Vue.js projects** and building my **portfolio**
-- 🌱 Learning **cybersecurity fundamentals**, **penetration testing**, and **full-stack development**
-- 🎯 Goal: Master both web development and cybersecurity to build secure applications
-- 💬 Ask me about: **Vue.js**, **JavaScript**, **Python**, **HTML/CSS**, and **web security**
-- ⚡ Fun fact: *I build things for the web — and sometimes break them to make them stronger*
+#### [🏛️ AetherQuant-MT5](https://github.com/ElMoorish/AetherQuant-MT5)
+> **Autonomous Multi-Asset Quantitative Trading System** powered by Patch Time-Series Transformers (PatchTST), PyTorch Lightning, and MetaTrader 5 (MT5) with institutional portfolio risk controllers and real-time SOC 2 telemetry.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElMoorish&show_icons=true&theme=tokyonight" alt="ElMoorish GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMoorish&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ElMoorish&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-
-**⭐ From Morocco with ❤️**
-
+  <sub>Hardened Code &bull; Intelligent Algorithms &bull; Scalable Architectures</sub>
 </div>
