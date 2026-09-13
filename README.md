@@ -139,12 +139,12 @@ Cybersecurity & DevOps     SOC 2 Compliance, OWASP Perimeter Hardening, Docker, 
 ### 📊 GitHub Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElMoorish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3" alt="ElMoorish GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMoorish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElMoorish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3" alt="ElMoorish GitHub Stats" height="185" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElMoorish&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3" alt="Top Languages" height="185" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElMoorish&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="ElMoorish Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ElMoorish&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="ElMoorish Streak" />
 </p>
 
 ---
