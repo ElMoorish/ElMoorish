@@ -15,7 +15,7 @@
     <a href="https://primeclub-quant.vercel.app/"><img src="https://img.shields.io/badge/PrimeClub%20Portal-Live%20Platform-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="PrimeClub Portal" /></a>
     <a href="https://huggingface.co/ElMoorish"><img src="https://img.shields.io/badge/Hugging%20Face-Model%20Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
     <a href="https://medium.com/@ElMoorish"><img src="https://img.shields.io/badge/Medium-Research%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://x.com/ElMoorish"><img src="https://img.shields.io/badge/X%20(Twitter)-@ElMoorish-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://x.com/MoorishPlatypus"><img src="https://img.shields.io/badge/X%20(Twitter)-@MoorishPlatypus-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 
   <p align="center">
@@ -155,7 +155,7 @@ Cybersecurity & DevOps     SOC 2 Compliance, OWASP Perimeter Hardening, Docker, 
 
   <a href="https://medium.com/@ElMoorish"><img src="https://img.shields.io/badge/Medium-@ElMoorish-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://huggingface.co/ElMoorish"><img src="https://img.shields.io/badge/Hugging%20Face-ElMoorish-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://x.com/ElMoorish"><img src="https://img.shields.io/badge/X-@ElMoorish-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/MoorishPlatypus"><img src="https://img.shields.io/badge/X-@MoorishPlatypus-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://primeclub-quant.vercel.app/"><img src="https://img.shields.io/badge/Web%20Portal-primeclub--quant.vercel.app-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Web Portal" /></a>
 
   <br/><br/>
